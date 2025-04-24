@@ -1,0 +1,34 @@
+{
+  "name": "crud-mern-application",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  
+  "author": "ramakrishnan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "date-and-time": "^3.3.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.21.2",
+    "firebase": "^10.12.2",
+    "mongoose": "^7.5.3",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.10.1",
+    "react-scripts": "^5.0.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": [],
+  
+  "description": ""
+ 
+}
